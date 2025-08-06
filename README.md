@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I'm Ritik Kumar
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=440&lines=Full+Stack+Engineer;AI+and+Backend+Specialist;Open+to+Collaboration!" alt="Animated Heading" />
+</p>
+
+---
+
+## 🙋‍♂️ About Me
+
+🚀 **Full Stack Engineer** | Building scalable systems & smart AI agents  
+💡 Passionate about clean code, fast shipping, and solving real-world problems  
+📈 Turning ideas into impact, one commit at a time
+
+---
+
+### ⚡ PROGRAMMING
+<p>
+<img src="https://skillicons.dev/icons?i=js,cpp,python,sql" />
+</p>
+
+### 🧩 TECHNICAL SKILLS
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,nextjs,express,react,mongodb,postgres,git,prisma,fastapi" />
+</p>
+
+### 🛠️ TOOLS
+<p>
+<img src="https://skillicons.dev/icons?i=redux,materialui,tailwindcss,azure,aws,redis" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ritik-kumar-428211191/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-ritik--kumar-blue?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:ritikkr70@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-ritikkr70@gmail.com-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Gmail Badge"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ritikkr70&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
 <!--
-**ritikkr70/ritikkr70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Feel free to connect or collaborate!
 -->
