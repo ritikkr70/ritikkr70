@@ -9,7 +9,7 @@
 ## 🙋‍♂️ About Me
 
 🚀 **Full Stack Engineer** | Building scalable systems & smart AI agents  
-💡   Passionate about clean code, fast shipping, and solving real-world problems  
+💡 &nbsp;Passionate about clean code, fast shipping, and solving real-world problems 
 📈 Turning ideas into impact, one commit at a time
 
 ---
