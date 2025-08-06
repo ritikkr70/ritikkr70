@@ -8,8 +8,8 @@
 
 ## 🙋‍♂️ About Me
 
-🚀 **Full Stack Engineer** | Building scalable systems & smart AI agents  
-💡 &nbsp;Passionate about clean code, fast shipping, and solving real-world problems 
+🚀 Full Stack Engineer | Building scalable systems & smart AI agents  
+💡&nbsp; Passionate about clean code, fast shipping, and solving real-world problems  
 📈 Turning ideas into impact, one commit at a time
 
 ---
